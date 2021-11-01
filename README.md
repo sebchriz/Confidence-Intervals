@@ -3,4 +3,4 @@ an app in created with ipywidgets that calculates confidence intervals of 3 dist
 
 To execute it in binder click below:
 
-![Binder](https://tinyurl.com/fvaye43p)
+[![Binder]](https://tinyurl.com/fvaye43p)
